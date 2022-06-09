@@ -1,4 +1,4 @@
-package br.com.generation.java;
+package br.com.generation.operadoreslogicos;
 
 import java.util.Locale;
 import java.util.Scanner;

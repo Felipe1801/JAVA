@@ -1,11 +1,11 @@
-package br.com.generation.lacosdedecisao2;
+package br.com.generation.lacosdedecisao;
 
 import javax.swing.JOptionPane;
 
-public class LacosDeDecisao2 { 
-
+public class LacosDeDecisao02 {
 
 	public static void main(String[] args) {
+		
 		/*
 		 * Faça um programa que entre com três números e coloque em ordem crescente.
 		 */
@@ -40,9 +40,9 @@ public class LacosDeDecisao2 {
     
 	} 
 	
-}
 
 
-	
 
+
+	}
 
